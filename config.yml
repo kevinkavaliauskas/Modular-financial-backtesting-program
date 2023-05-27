@@ -1,0 +1,17 @@
+settings:
+    data_location: "Data/GBPUSD_M5_feb22-feb23.csv"
+    timestamp_format: "%Y.%m.%d %H:%M:%S.%f"
+    slow_sma_period: 200
+    medium_sma_period: 60
+    fast_sma_period: 30
+    london_session_start: "09:00" 
+    london_session_end: "12:00"
+    new_york_session_start: "14:00"
+    new_york_session_end: "17:00"
+    minimum_FVG_size: 0.00100
+    risk_free_rate: 4.728
+
+    account_balance: 100000
+    risk_percentage: 2
+    account_spread: 0.00004
+    account_comission: 3
